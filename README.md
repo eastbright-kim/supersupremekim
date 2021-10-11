@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @supersupremekim
 - 👀 I’m interested in Art
-- 🌱 I’m currently learning Clean Architecture, Operating System
+- 🌱 I’m currently learning Clean Code, Operating System
 - 💞️ I’m looking to collaborate on Art, Culture iOS application.
 - 📫 How to reach me 1033513@naver.com
 - 🖼 Poetree on App Store !!
